@@ -17,7 +17,7 @@
 
 I'm [Chris Young](https://chris-young.dev)
 
-- 🛠️ I'm a data engineer at Eide Bailly
+- 🛠️ I'm a data engineer at [Eide Bailly](https://github.com/eide-bailly)
 - 🔭 I’m building NBA Shot location analysis and viz with React
 - 🧠 I’m currently trying to get better at AWS DevOps
 - 💬 Ask me about Airflow, DBT, Sports Analytics
