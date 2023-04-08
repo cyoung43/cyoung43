@@ -17,7 +17,7 @@
 
 I'm [Chris Young](https://chris-young.dev)
 
-- 🛠️ I'm a data engineer at [Eide Bailly](https://github.com/eide-bailly)
+- 🛠️ I'm a data platform engineer at [Xevant](https://www.xevant.com/)
 - 🔭 I’m building a Hiligaynon open-source dictionary with React and serverless AWS architecture <!-- NBA Shot location analysis and viz with React -->
 - 💡 I’m currently trying to get better at cloud ops
 - 💬 Ask me about Airflow, DBT, Sports Analytics
