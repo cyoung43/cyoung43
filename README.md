@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <a href="https://discord.com/users/crisp#7133">
   <img align="left" alt="Chris's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
