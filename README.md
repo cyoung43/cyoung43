@@ -3,7 +3,7 @@
 <a href="https://discord.com/users/crisp#7133">
   <img align="left" alt="Chris's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/chrisyoung0">
+<a href="https://x.com/chrisyoung0">
   <img align="left" alt="Chris Young | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chris-young22/">
