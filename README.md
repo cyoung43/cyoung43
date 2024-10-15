@@ -1,10 +1,10 @@
 ### Hello there! 👋
 
 <a href="https://discord.com/users/crisp#7133">
-  <img alt="Chris Young | Discord" title="Chris Young | Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"
+  <img alt="Chris Young | Discord" title="Chris Young | Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/chrisyoung0">
-  <img alt="Chris Young | Twitter" title="Chris Young | Twitter" height="48" width="48" src="https://cdn.simpleicons.org/twitter"/>
+  <img alt="Chris Young | X" title="Chris Young | Twitter" height="48" width="48" src="https://cdn.simpleicons.org/x"/>
 </a>
 <a href="https://www.linkedin.com/in/chris-young22/">
   <img alt="Chris Young | LinkedIn" title="Chris Young | LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
