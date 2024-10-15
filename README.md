@@ -4,7 +4,7 @@
   <img alt="Chris Young | Discord" title="Chris Young | Discord" height="24" width="24" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/chrisyoung0">
-  <img alt="Chris Young | X" title="Chris Young | Twitter" height="24" width="24" src="https://cdn.simpleicons.org/x"/>
+  <img alt="Chris Young | X" title="Chris Young | Twitter" height="24" width="24" margin="1px src="https://cdn.simpleicons.org/x"/>
 </a>
 <a href="https://www.linkedin.com/in/chris-young22/">
   <img alt="Chris Young | LinkedIn" title="Chris Young | LinkedIn" height="24" width="24" src="https://cdn.simpleicons.org/linkedin">
