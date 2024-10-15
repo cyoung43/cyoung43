@@ -1,17 +1,18 @@
 ### Hello there! 👋
 
 <a href="https://discord.com/users/crisp#7133">
-  <img alt="Chris Young | Discord" title="Chris Young | Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord" />
+  <img alt="Chris Young | Discord" title="Chris Young | Discord" height="24" width="24" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://twitter.com/chrisyoung0">
-  <img alt="Chris Young | X" title="Chris Young | Twitter" height="48" width="48" src="https://cdn.simpleicons.org/x"/>
+  <img alt="Chris Young | X" title="Chris Young | Twitter" height="24" width="24" src="https://cdn.simpleicons.org/x"/>
 </a>
 <a href="https://www.linkedin.com/in/chris-young22/">
-  <img alt="Chris Young | LinkedIn" title="Chris Young | LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+  <img alt="Chris Young | LinkedIn" title="Chris Young | LinkedIn" height="24" width="24" src="https://cdn.simpleicons.org/linkedin">
 </a>
 <!-- <a href="https://open.spotify.com/user/szs6ra3vt46y54o046u5biuo5">
   <img align="left" alt="Chris's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/ff2abc82ba18c42902a70c233d165c4e13c5a480/assets/spotify.svg" />
 </a> -->
+<p></p>
 
 ![](https://komarev.com/ghpvc/?username=cyoung43&color=blue)
 
