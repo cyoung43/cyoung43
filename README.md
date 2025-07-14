@@ -18,7 +18,7 @@
 
 I'm [Chris Young](https://chris-young.dev)
 
-- 🛠️ I'm a senior data platform engineer at Xevant
+- 🛠️ I'm a senior platform engineer at Xevant
 - 🔭 I’m building a Hiligaynon open-source dictionary with NextJS and serverless AWS architecture
 - 🧠 I’m currently trying to get better at AWS DevOps
 - 💬 Ask me about Airflow, DBT, Sports Analytics, Hiligaynon
